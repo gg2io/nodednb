@@ -1,5 +1,18 @@
-# nodednb
+# NodeDNB
 
-This is the source code for my Node DNB site.
+![HTML](https://img.shields.io/badge/HTML-5-orange?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-3-blue?logo=css3&logoColor=white)
 
-www.nodednb.com
+**NodeDNB** is my personal Drum and Bass (DnB) music website — featuring a collection of tracks, mixes, and information about the DnB scene.
+
+**Live Site:** [https://nodednb.com](https://nodednb.com)
+
+---
+
+## Preview
+
+Here’s a sample snapshot of the site’s homepage:
+
+![NodeDNB Homepage Screenshot](https://github.com/user-attachments/assets/aea10bae-c0a9-4684-9d75-7b536a576618)
+
+---
