@@ -5,7 +5,7 @@
 
 **NodeDNB** is my personal Drum and Bass (DnB) music website — featuring a collection of tracks, mixes, and information about the DnB scene.
 
-**Live Site:** [https://nodednb.com](https://nodednb.com)
+**Live Site:** [nodednb.com](https://www.nodednb.com)
 
 ---
 
