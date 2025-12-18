@@ -1,0 +1,6 @@
+# Redirect non-www to www (with HTTPS)
+http://nodednb.com/* https://www.nodednb.com/:splat 301!
+https://nodednb.com/* https://www.nodednb.com/:splat 301!
+
+# Redirect HTTP www to HTTPS www
+http://www.nodednb.com/* https://www.nodednb.com/:splat 301!
